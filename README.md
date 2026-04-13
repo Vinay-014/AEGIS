@@ -3,12 +3,6 @@
 > **Google Gen AI Academy Hackathon Submission**
 > *Strategic Command Center with Multi-Agent Adversarial Workflow Orchestration*
 
-## Demo Video
-
-[![AEGIS v2.0 Demonstration](https://drive.google.com/file/d/1EqRYhB0T_Q1etZXtdOHzvvc5Hlp-1nyq/view?usp=drivesdk)
-
-*Click the link above to view the complete system walkthrough, including agent orchestration, adversarial debate cycles, geospatial intelligence visualization, and real-time canary security auditing.*
-
 ---
 
 ##  Problem Statement
