@@ -19,7 +19,7 @@ AEGIS functions as a strategic command center for high-stakes operations, employ
 
 ##  Architecture Overview
 
-![AEGIS Architecture Diagram](./AEGIS/blob/main/aegis-system/Gemini_Generated_Image.PNG)
+![AEGIS Architecture Diagram](./aegis-system/Gemini_Generated_Image.PNG)
 
 ---
 
