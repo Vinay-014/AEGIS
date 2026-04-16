@@ -52,6 +52,7 @@ Tasks with location data appear on a **geospatial grid** (Leaflet map), not just
 * Python 3.12+
 * Node.js 20+
 * Docker & Docker Compose (optional)
+* Groq/Together AI API Keys
 * Google API Key (Gemini)
 
 ### Option 1: Local Setup (Recommended for Hackathon Demo)
