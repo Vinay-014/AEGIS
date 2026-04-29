@@ -1,6 +1,5 @@
 # AEGIS v2.0 | Autonomous Executive & Geospatial Intelligence System
 
-> **Google Gen AI Academy Hackathon Submission**
 > *Strategic Command Center with Multi-Agent Adversarial Workflow Orchestration*
 
 ---
