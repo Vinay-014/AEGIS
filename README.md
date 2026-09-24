@@ -10,7 +10,7 @@
 
 **Strategic Command Center • Multi-Agent Adversarial Orchestration • Geospatial Intelligence**
 
-[Demo](https://drive.google.com/file/d/1EqRYhB0T_Q1etZXtdOHzvvc5Hlp-1nyq/view?usp=sharing) • [Architecture](#architecture-overview) • [Quick Start](#quick-start) • [API](#api-endpoints)
+[Demo](https://drive.google.com/file/d/1EqRYhB0T_Q1etZXtdOHzvvc5Hlp-1nyq/view?usp=sharing) • [Architecture](#architecture-overview) • [Quick Start](#quick-start) • [API Endpoints](#api-endpoints)
 
 </div>
 
