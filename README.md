@@ -13,6 +13,9 @@ AEGIS functions as a strategic command center for high-stakes operations, employ
 
 ---
 
+![]()
+
+
 ##  Agent Hierarchy
 
 | Agent | Role | Function |
