@@ -1,9 +1,23 @@
+<div align="center">
 # AEGIS v2.0 | Autonomous Executive & Geospatial Intelligence System
+
+![Python](https://img.shields.io/badge/Python-3.12%2B-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Async-red)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange)
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS%20%2B%20pgvector-blue)
+
+**Strategic Command Center • Multi-Agent Adversarial Orchestration • Geospatial Intelligence**
+
+[Demo](https://drive.google.com/file/d/1EqRYhB0T_Q1etZXtdOHzvvc5Hlp-1nyq/view?usp=sharing) • [Architecture](#architecture-overview) • [Quick Start](#quick-start) • [API](#api-endpoints)
+
+</div>
+
 
 > *Strategic Command Center with Multi-Agent Adversarial Workflow Orchestration*
 
 
-AEGIS functions as a strategic command center for high-stakes operations, employing a multi-agent hierarchical architecture integrated with Google Cloud services (AlloyDB, Cloud Run) and MCP tooling. The system prioritizes **operational resilience** and **asymmetric strategic advantage** over conventional convenience metrics.
+AEGIS functions as a strategic command center for high-stakes operations, employing a distributed multi-agent hierarchical architecture integrated with Google Cloud services (AlloyDB, Cloud Run) and MCP tooling. The system prioritizes **operational resilience** and **asymmetric strategic advantage** over conventional convenience metrics.
 
 
 
