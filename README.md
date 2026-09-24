@@ -1,5 +1,7 @@
 # AEGIS v2.0 | Autonomous Executive & Geospatial Intelligence System
+
 <div align="center">
+    
 ![Python](https://img.shields.io/badge/Python-3.12%2B-green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Async-red)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange)
