@@ -5,7 +5,7 @@
 
 AEGIS functions as a strategic command center for high-stakes operations, employing a multi-agent hierarchical architecture integrated with Google Cloud services (AlloyDB, Cloud Run) and MCP tooling. The system prioritizes **operational resilience** and **asymmetric strategic advantage** over conventional convenience metrics.
 
----
+
 
 ##  Architecture Overview
 
